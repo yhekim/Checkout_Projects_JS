@@ -4,7 +4,12 @@
 # Project-004 : Checkout_Page (JS-04)
 
 ## Description
-Project aims to create a real checkout page of e-commerce website.
+- Project aims to create a real checkout page of e-commerce website.
+
+- https://app.netlify.com/sites/competent-hamilton-b7037e/overview
+
+- https://yhekim.github.io/Checkout_Projects_JS/
+
 
 ## Learning Outcomes
 
